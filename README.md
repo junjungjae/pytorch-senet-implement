@@ -1,5 +1,9 @@
 # pytorch-senet-implement
 
+### Reference
+- SeNet 공식 논문(HU, Jie; SHEN, Li; SUN, Gang. Squeeze-and-excitation networks. In: Proceedings of the IEEE conference on computer vision and pattern recognition. 2018. p. 7132-7141.)
+- se-resnet50 papers with code(https://paperswithcode.com/model/se-resnet?variant=seresnet50#)
+
 ### 이전 모델 구현 대비 개선점
 
 - train, loss에 대한 loss, metric 저장 기능 추가(log & pkl)
